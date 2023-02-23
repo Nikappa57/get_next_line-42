@@ -6,15 +6,11 @@
 /*   By: lorenzogaudino <lorenzogaudino@student.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/02/21 12:11:02 by lorenzogaud       #+#    #+#             */
-/*   Updated: 2023/02/22 15:59:46 by lorenzogaud      ###   ########.fr       */
+/*   Updated: 2023/02/23 17:16:58 by lorenzogaud      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "get_next_line.h"
-
-#include <stdio.h>
-#include <fcntl.h>
-#include <string.h>
 
 static char	*ft_read_line(int fd, char *saved)
 {

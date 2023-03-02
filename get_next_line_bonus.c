@@ -3,18 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_bonus.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: lorenzogaudino <lorenzogaudino@student.    +#+  +:+       +#+        */
+/*   By: lgaudino <lgaudino@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/02/21 12:11:02 by lorenzogaud       #+#    #+#             */
-/*   Updated: 2023/02/22 21:59:44 by lorenzogaud      ###   ########.fr       */
+/*   Created: 2023/03/02 15:42:20 by lgaudino          #+#    #+#             */
+/*   Updated: 2023/03/02 15:42:36 by lgaudino         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "get_next_line.h"
-
-#include <stdio.h>
-#include <fcntl.h>
-#include <string.h>
 
 static char	*ft_read_line(int fd, char *saved)
 {

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_utils.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: lorenzogaudino <lorenzogaudino@student.    +#+  +:+       +#+        */
+/*   By: lgaudino <lgaudino@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/02/21 13:28:16 by lorenzogaud       #+#    #+#             */
-/*   Updated: 2023/02/22 15:53:56 by lorenzogaud      ###   ########.fr       */
+/*   Created: 2023/03/02 15:44:48 by lgaudino          #+#    #+#             */
+/*   Updated: 2023/03/02 15:45:40 by lgaudino         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
